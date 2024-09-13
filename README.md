@@ -1,5 +1,12 @@
-## Hi there 👋
+![banner presentacion](github-header-image.png)
 
+Estudiante de Ciencias de la Computación | Interés en el análisis de datos y Machine Learning
+
+***
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-cruz1)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
+## Datos Rapidos sobre mi
 <!--
 **Cruz207/Cruz207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
